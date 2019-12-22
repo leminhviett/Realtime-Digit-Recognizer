@@ -1,6 +1,8 @@
 # Realtime Handwritten Digit Recognizer
 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://catvn.github.io/Handwritten-Digit-Recognition/pic/mnistExamples.png" width="550" height="250">
+
+
 # Project Overview
 This project aims to build a model which can recognize handwritten digits, from zero to nine, in realtime; the input video is captured using an external camera.<br>
 I built different deep learning models with Pytorch to find out the best one.
