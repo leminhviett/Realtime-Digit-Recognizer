@@ -3,7 +3,7 @@
 # Project Overview
 This project aims to build a model which can recognize handwritten digits, from zero to nine, in realtime; the input video is captured using an external camera.<br>
 I built different deep learning models with Pytorch to find out the best one.
-I also used OpenCV to preprocessing video to let the model easier to recognize. 
+I also used OpenCV to preprocess input video to let the model easier to recognize. 
 
 # Data Description
 
