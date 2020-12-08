@@ -1,6 +1,6 @@
 # Realtime Handwritten Digit Recognizer
 
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://catvn.github.io/Handwritten-Digit-Recognition/pic/mnistExamples.png" width="550" height="250">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://miro.medium.com/max/619/0*94t_5cPF9mvBj20z.png" width="550" height="250">
 
 
 # Project Overview
